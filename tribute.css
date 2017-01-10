@@ -1,0 +1,19 @@
+.container-fluid{
+    background:linear-gradient(to right, white, gainsboro);
+    margin: 50px;
+    padding: 10px;
+    border-width:0px;
+    width: 90%;
+}
+#headerImage{
+    margin:10px;
+}
+.text-picture-block{
+    margin:40px;
+}
+.sidebar-image{
+    height:200px; 
+}
+#tiny-image{
+    height:50px;
+}
